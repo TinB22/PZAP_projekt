@@ -1,2 +1,2 @@
-# PZAP_projekt
-Projekt iz kolegija "programiranje za analizu podataka"
+# Energy Data Analysis for Heat Pumps
+
